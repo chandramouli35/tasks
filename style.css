@@ -1,0 +1,324 @@
+
+@media (max-width:576px) {
+    .navbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+        margin-left:100px;
+
+    }
+
+   
+
+
+
+    .bg-container {
+        background-image: linear-gradient(to right, #FF1493, #FFD700);
+        padding-bottom: 100px;
+
+    }
+
+    .top-bg-container {
+        background-image: url("https://res.cloudinary.com/dgonqoet4/image/upload/v1683164335/img1_jz21bf.jpg");
+        background-size: cover;
+        height: 20vh;
+        padding-top: 100px;
+        padding-bottom: 170px;
+        padding-left: 50px;
+        padding-right: 70px;
+    }
+
+    .top-card {
+        background-color: #FA8072;
+        opacity: 0.8;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-self: center;
+        padding: 20px;
+
+    }
+
+
+
+    .heading {
+        color: #ffffff;
+        font-weight: bold;
+        font-family: "Roboto";
+    }
+
+    .paragraph {
+        color: #ffffff;
+
+        font-family: "Roboto";
+    }
+
+    .order-head {
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+    }
+
+    .card-container {
+        padding: 10px;
+        background-color: #ffffff;
+        margin-left: 20px;
+        border-top-right-radius: 40px;
+        border-bottom-left-radius: 40px;
+
+    }
+
+    .image {
+        border-top-right-radius: 40px;
+        height: 150px;
+        width: 140px;
+    }
+
+    .flex-container {
+        display: flex;
+        flex-direction: row;
+        padding-right: 100px;
+    }
+
+    .button-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    .button {
+        background-color: #C0C0C0;
+        margin-top: 30px;
+        padding: 10px;
+        width: 100px;
+        border-top-right-radius: 40px;
+        border-bottom-left-radius: 40px;
+        border-top-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+        outline: none;
+    }
+    .head{
+        display: flex;
+        justify-content: center;
+    }
+    .para{
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+@media (min-width:577px) and (max-width:768px) {
+    .navbar {
+        margin-left: 200px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .nav-text {
+        font-size: 15px;
+    }
+
+    .bg-container {
+        background-image: linear-gradient(to right, #FF1493, #FFD700);
+        padding-bottom: 100px;
+
+    }
+
+    .top-bg-container {
+        background-image: url("https://res.cloudinary.com/dgonqoet4/image/upload/v1683164335/img1_jz21bf.jpg");
+        background-size: cover;
+        height: 10vh;
+        padding-top: 100px;
+        padding-bottom: 170px;
+        padding-left: 70px;
+        padding-right: 250px;
+    }
+
+    .top-card {
+        background-color: #FA8072;
+        opacity: 0.8;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-self: center;
+        padding: 20px;
+
+    }
+
+
+
+    .heading {
+        color: #ffffff;
+        font-weight: bold;
+        font-family: "Roboto";
+    }
+
+    .paragraph {
+        color: #ffffff;
+
+        font-family: "Roboto";
+    }
+
+    .order-head {
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+    }
+
+    .card-container {
+        padding: 10px;
+        background-color: #ffffff;
+        margin-left: 40px;
+        border-top-right-radius: 40px;
+        border-bottom-left-radius: 40px;
+
+    }
+
+    .image {
+        border-top-right-radius: 40px;
+        height: 200px;
+        width: 170px;
+    }
+
+    .flex-container {
+        display: flex;
+        flex-direction: row;
+        padding-right: 100px;
+    }
+
+    .button-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    .button {
+        background-color: #C0C0C0;
+        margin-top: 30px;
+        padding: 10px;
+        width: 100px;
+        border-top-right-radius: 40px;
+        border-bottom-left-radius: 40px;
+        border-top-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+        outline: none;
+    }
+    .head{
+        display: flex;
+        justify-content: center;
+    }
+    .para{
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+@media (min-width:769px) {
+    .navbar {
+        margin-left: 300px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .nav-text {
+        font-size: 20px;
+    }
+
+    .bg-container {
+        background-image: linear-gradient(to right, #FF1493, #FFD700);
+        padding-bottom: 100px;
+
+    }
+
+    .top-bg-container {
+        background-image: url("https://res.cloudinary.com/dgonqoet4/image/upload/v1683164335/img1_jz21bf.jpg");
+        background-size: cover;
+        height: 10vh;
+        padding-top: 100px;
+        padding-bottom: 170px;
+        padding-left: 70px;
+        padding-right: 300px;
+    }
+
+    .top-card {
+        background-color: #FA8072;
+        opacity: 0.8;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-self: center;
+        padding: 20px;
+
+    }
+
+
+
+    .heading {
+        color: #ffffff;
+        font-weight: bold;
+        font-family: "Roboto";
+    }
+
+    .paragraph {
+        color: #ffffff;
+        font-family: "Roboto";
+        font-size: 20px;
+    }
+
+    .order-head {
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+    }
+
+    .card-container {
+        padding: 10px;
+        background-color: #ffffff;
+        margin-left: 40px;
+        border-top-right-radius: 40px;
+        border-bottom-left-radius: 40px;
+
+    }
+
+    .image {
+        border-top-right-radius: 40px;
+        height: 300px;
+        width: 300px;
+    }
+
+    .flex-container {
+        display: flex;
+        flex-direction: row;
+        padding-right: 100px;
+    }
+
+    .button-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    .button {
+        font-size: 20px;
+        background-color: #C0C0C0;
+        margin-top: 30px;
+        padding: 20px;
+        width: 150px;
+        border-top-right-radius: 40px;
+        border-bottom-left-radius: 40px;
+        border-top-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+        outline: none;
+    }
+    .head{
+        display: flex;
+        justify-content: center;
+    }
+    .para{
+        display: flex;
+        justify-content: center;
+    }
+
+}
